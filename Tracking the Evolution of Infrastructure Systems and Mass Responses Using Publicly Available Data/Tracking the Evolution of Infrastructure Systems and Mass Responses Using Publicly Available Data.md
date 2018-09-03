@@ -34,6 +34,8 @@ node: subway station region in Voronoi
 
 link: region shared border 
 
+**Voronoi Diagram** （Learned in Air Transportaion Planing） 
+
 Z-score
 
 ![screenshot.png](resources/B8D1DB65645ABB0CB059FBACC098ED17.png)
